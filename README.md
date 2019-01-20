@@ -1,7 +1,7 @@
 This Flask app is a barebones for the online market place.
 Products are stored in and fetched from the sqlite db.
 
-To run the web-server, run "python3 api.py"
+To run the web-server, run "python3 api.py".
 Following APIs are supported - 
 
 1. API to fetch the items and their prices available in the inventory.
